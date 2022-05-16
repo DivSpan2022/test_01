@@ -57,8 +57,11 @@
 //git branch 查看分支列表
 //git branch 新分支名称: 创建新分支
 //git checkout 分支名称: 切换分支
-//git checkout -b 分支名称 :  速创建和切换
+//git checkout -b 分支名称 :  快速创建和切换
 
 // git checkout main  //先回到主分支
 // git merge login    //合并分支
 // git branch -d 名称: 删除该分支
+
+// git pull 从远程下载到本地
+// git push origin(远程仓库名称) --delete two(远程分支名称) 删除远程分支
