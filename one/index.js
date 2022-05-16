@@ -43,10 +43,10 @@
 
 // git remote -v 查看关联的地址
 
-// git remote add origin https://github.com/RenJ2022/peoject_01.git 关联本地和远程仓库
+// git remote add origin https://github.com/DivSpan2022/peoject_01.git 关联本地和远程仓库
 //add  添加
 //
-//远程仓库地址 https://github.com/RenJ2022/peoject_01.git
+//远程仓库地址 https://github.com/DivSpan2022/peoject_01.git
 //git push -u origin main 第一次从本地仓库提交的时候 必须这么写
 // git push 
 // -u 第一次推送是时 必须加这个参数
