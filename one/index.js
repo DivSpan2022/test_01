@@ -48,8 +48,16 @@
 //
 //远程仓库地址 https://github.com/DivSpan2022/peoject_01.git
 //git push -u origin main 第一次从本地仓库提交的时候 必须这么写
-// git push 
+// git push
 // -u 第一次推送是时 必须加这个参数
 //origin 要推送的地址
 
-// git clone 地址  :  从远程仓库下载到本地
+// git clone 地址:  从远程仓库下载到本地
+
+//git branch 查看分支列表
+//git branch 新分支名称: 创建新分支
+//git checkout 分支名称: 切换分支
+//git checkout -b 分支名称 :  速创建和切换
+
+// git checkout main  //先回到主分支 
+// git merge login    //合并分支
