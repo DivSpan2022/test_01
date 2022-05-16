@@ -59,5 +59,6 @@
 //git checkout 分支名称: 切换分支
 //git checkout -b 分支名称 :  速创建和切换
 
-// git checkout main  //先回到主分支 
+// git checkout main  //先回到主分支
 // git merge login    //合并分支
+// git branch -d 名称: 删除该分支
