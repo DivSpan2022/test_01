@@ -57,7 +57,7 @@
 //git branch 查看分支列表
 //git branch 新分支名称: 创建新分支
 //git checkout 分支名称: 切换分支
-//git checkout -b 分支名称 :  速创建和切换
+//git checkout -b 分支名称 :  快速创建和切换
 
 // git checkout main  //先回到主分支
 // git merge login    //合并分支
